@@ -1,0 +1,12 @@
+package com.cap.SBCapgBanking;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class SbCapgBankingApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(SbCapgBankingApplication.class, args);
+	}
+}
